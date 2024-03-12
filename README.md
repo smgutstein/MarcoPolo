@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# First Rust Project
+A Marco Polo game from Coursera course built with rust-cli-template
 
 ## References
 
